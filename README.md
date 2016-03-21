@@ -6,6 +6,6 @@ In no particular order:
  * Some code I used to make calculations/make plots
    when solving the problem sets.
 
- * The downloaded code used to play with the robot arm.
+ * The downloaded code used to play with the helicopter "arm".
 
 
